@@ -1,1 +1,1 @@
-Закидывать Client\Bepinex\plugins\ вместо с античитом проекта(MyRust, DreamRust)
+Закидывать Client\Bepinex\plugins\ вместе с античитом проекта(MyRust, DreamRust)
